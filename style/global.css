@@ -55,5 +55,13 @@
         --headin4: 300 1rem/120% var(--font-family);
 
       }
+      .flex{
+        display: flex;
+      }
       
-      
+      .flex-1{
+        flex: 1;
+      }
+      .flex-2{
+        flex: 2;
+      }
